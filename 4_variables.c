@@ -16,6 +16,8 @@ int main() {
     printf("Bond's Rating is in array of characters is %s", bond_rating2);
     printf("\n");
 
+    return 0;
+
     /*
     Notice the %c and %s above. These are format specifiers.
     See this below link for more format specifiers. We will learn this in the next lesson.
