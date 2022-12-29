@@ -24,6 +24,8 @@ int main() {
    printf("\n");
    printf("The current interest rates on bonds with ratings %c is %f", bond_rating, interest_rate);
 
+   return 0;
+
     /*
     See this below link for more format specifiers.
     https://www.freecodecamp.org/news/format-specifiers-in-c/
