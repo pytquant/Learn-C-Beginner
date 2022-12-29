@@ -11,4 +11,5 @@ int main() {
     printf("Hello \tWorld!\n"); // Horizontal tab
     printf("Hello \vWorld!\n"); // Vertical tab
     printf("\"To be or not to be?\" - William Shakespeare"); // Escape the literal quote
+    return 0;
 }
